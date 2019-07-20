@@ -15,7 +15,7 @@ namespace CSharp7_Value_Tuples_Demo
             //Arrays: Same type e.g. int[]
             //Dictionary: Key Value Pair, key and it's value/What if you had two objects/Don't neccesarily correspond.
 
-            int[] values = { 4, 5, -3, 10, 1 };
+            int[] values = { 4, 5, -3, 10, 2 };
 
             MinMaxValuesEvaluatedTwice(values);
 
